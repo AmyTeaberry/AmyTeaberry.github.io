@@ -1197,7 +1197,7 @@ hr {
 	bottom: -161px;
 	width: 236px;
 	height: 600px;
-	background: url(../images/parallax_1_1.svg);
+	/* background: url(../images/parallax_1_1.svg); */
 	pointer-events: none;
 }
 
@@ -1212,7 +1212,7 @@ hr {
 	bottom: 0;
 	width: 236px;
 	height: 600px;
-	background: url(../images/parallax_2.svg);
+	/* background: url(../images/parallax_2.svg); */
 	pointer-events: none;
 }
 
@@ -1257,7 +1257,7 @@ hr {
 	bottom: 0;
 	width: 236px;
 	height: 600px;
-	background: url(../images/parallax_2.svg);
+	/* background: url(../images/parallax_2.svg); */
 	pointer-events: none;
 }
 
@@ -1302,7 +1302,7 @@ hr {
 	bottom: 0;
 	width: 236px;
 	height: 600px;
-	background: url(../images/parallax_2.svg);
+	/* background: url(../images/parallax_2.svg); */
 	pointer-events: none;
 }
 
